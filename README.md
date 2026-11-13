@@ -1,7 +1,7 @@
 # PollySec OS source
 
-The complete corresponding source code of **PollySec OS**, the operating
-system of the PollySec sensor appliance. PollySec OS is based on Flatcar
+The complete corresponding source code of the open source software in
+**PollySec OS**, the operating system of the PollySec sensor appliance. PollySec OS is based on Flatcar
 Container Linux: each appliance version holds the programs of one Flatcar
 Container Linux release, unmodified, with the PollySec sensor and its
 configuration added beside them. In the boot configuration Flatcar keeps in
